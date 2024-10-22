@@ -1,0 +1,14 @@
+{
+  "name": "personal-expense-tracker",
+  "version": "1.0.0",
+  "description": "A RESTful API to manage personal financial records",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "sqlite3": "^5.0.0",
+    "body-parser": "^1.19.0"
+  }
+}
